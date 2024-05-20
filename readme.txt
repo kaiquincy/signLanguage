@@ -20,5 +20,5 @@ Sử dụng YOLO v8 để train HCN =)) và sử dụng: cần 3 file
 	
 	useTrainedModule.py
 		- Tác dụng: như tên
-		- module khi train xong tên là best.pt ở trong folder run, lấy ra mà quẩy
+		- module khi train xong tên là best.pt ở trong folder run, lấy ra dùng
 		- muốn train tiếp thì lấy last.pt ra train
