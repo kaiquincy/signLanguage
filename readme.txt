@@ -1,4 +1,4 @@
-## Using YOLO v8 to Train HCN =)) and Required Files
+## Using YOLO v8 to Train HCN and Required Files
 
 ### Files Required
 
